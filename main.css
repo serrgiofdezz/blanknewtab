@@ -1,0 +1,16 @@
+/* Copyright C bbjprojek labs */
+
+body {
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  margin: 0;
+  background-color: #f7f7f7;
+  color: #262626;
+  overflow: hidden;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #333333;
+    color: #ffffff;
+  }
+}
