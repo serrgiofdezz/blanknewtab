@@ -5,14 +5,11 @@
    },
    "description": "Replace new tab page with a blank page.",
    "icons": {
-      "32":  "assets/new_page_32.png",
-      "48":  "assets/new_page_48.png",
-      "64":  "assets/new_page_64.png",
-      "128": "assets/new_page_128.png"
+      "24":  "assets/vis.png"
    },
    "homepage_url": "https://github.com/serrgiofdezz/newtab",
    "incognito": "not_allowed",
    "manifest_version": 3,
-   "name": "Min New Tab",
-   "version": "1.1"
+   "name": "Blank New Tab",
+   "version": "1.2"
 }
